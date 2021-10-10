@@ -866,7 +866,7 @@ def start_bot():
 
 
 
-    bot.polling(none_stop=True)
+    bot.infinity_polling()
 
 
 
